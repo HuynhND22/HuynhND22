@@ -1,0 +1,16 @@
+ name: Text
+ on: 
+   push:
+ jobs:
+   build:
+     name: Make gitartwork SVG
+     runs-on: ubuntu-latest
+     steps:
+       - uses: actions/checkout@v3
+       - uses: jasineri/gitartwork@v1
+         with:
+            # Use this username's contribution graph  
+            user_name: HuynhND22
+            # Text on contribution graph 
+            text: HUYNHND
+       - uses: HuynhND22/simple-push-action@v1
