@@ -13,4 +13,4 @@
             user_name: HuynhND22
             # Text on contribution graph 
             text: HUYNHND
-       - uses: HuynhND22/simple-push-action@v1
+      - uses: jasineri/simple-push-action@v1
