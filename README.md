@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **HuynhND22/HuynhND22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  ![My_Name](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
