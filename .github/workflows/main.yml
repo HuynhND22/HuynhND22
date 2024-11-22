@@ -1,4 +1,4 @@
- name: Text
+ name: gitartwork from a contribution graph
  on: 
    push:
  jobs:
@@ -12,5 +12,5 @@
             # Use this username's contribution graph  
             user_name: HuynhND22
             # Text on contribution graph 
-            text: HUYNHND
-      - uses: jasineri/simple-push-action@v1
+            text: JASINERI
+       - uses: jasineri/simple-push-action@v1
